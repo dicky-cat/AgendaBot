@@ -4,7 +4,7 @@ Options +Indexes
 IndexOptions +NameWidth=*
 ReadmeName README
 
-# README is returned as text/plain anyway, but this is needed to
+# README is returned as text/plain anyway, but this i needed to
 # make it show up in the directory listing.
 #
 <Files "README">
